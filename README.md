@@ -1,5 +1,5 @@
 # appd_iot_rest_api
-NodeJS sample implementation of the AppDynamics IoT REST APIs. [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+NodeJS sample implementation of the AppDynamics IoT REST APIs. [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## How It Works
 This NodeJS application simulates sending IoT beacon data to the AppDynamics IoT REST API. The important files are listed below:
