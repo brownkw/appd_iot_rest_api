@@ -1,0 +1,17 @@
+{
+  "name": "iot-rest-api-node",
+  "version": "1.0.0",
+  "description": "NodeJS implementation of AppD IoT REST API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wayne Brown",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.17.1",
+    "inquirer": "^6.1.0",
+    "mathjs": "^5.1.0",
+    "moment": "^2.22.2"
+  }
+}
